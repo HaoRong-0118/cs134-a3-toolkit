@@ -1,0 +1,23 @@
+{
+  "name": "cs134-a3-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaoRong-0118/cs134-a3-toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaoRong-0118/cs134-a3-toolkit/issues"
+  },
+  "homepage": "https://github.com/HaoRong-0118/cs134-a3-toolkit#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.7"
+  }
+}
